@@ -1,4 +1,4 @@
-# newsapp
+# newsapp JS
 
 // Instructions:
 1.	Create new App
